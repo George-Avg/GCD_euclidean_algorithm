@@ -58,3 +58,4 @@ print(f"\nΑριθμοί: {numbers_list}"
 
 input("\nΠατήστε ENTER δυο φορές για να κλείσει η εφαρμογή")
 input()
+123
